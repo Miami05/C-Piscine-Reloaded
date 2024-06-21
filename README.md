@@ -35,7 +35,7 @@ Participating in the C Piscine Reloaded was a challenging and rewarding journey.
 How to Use
 
     Clone the repository:
-    git clone https://github.com/miami05/c-piscine-reloaded.git
+    git clone https://github.com/Miami05/c-piscine-reloaded.git
 
 Navigate to the desired project directory:
     cd c-piscine-reloaded/ex00
